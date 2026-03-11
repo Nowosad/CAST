@@ -4,6 +4,7 @@
 
 [![R-CMD-check](https://github.com/HannaMeyer/CAST/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HannaMeyer/CAST/actions/workflows/R-CMD-check.yaml)
 [![CRAN status](https://www.r-pkg.org/badges/version/CAST)](https://cran.r-project.org/package=CAST)
+[![Codecov test coverage](https://codecov.io/gh/HannaMeyer/CAST/graph/badge.svg)](https://app.codecov.io/gh/HannaMeyer/CAST)
 [![CRAN RStudio mirror downloads total](http://cranlogs.r-pkg.org/badges/grand-total/CAST)](https://cran.r-project.org/package=CAST)
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/CAST)](https://cran.r-project.org/package=CAST)
 
