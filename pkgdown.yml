@@ -1,0 +1,13 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  cast01-CAST-intro: cast01-CAST-intro.html
+  cast02-plotgeodist: cast02-plotgeodist.html
+  cast03-CV: cast03-CV.html
+  cast04-AOA-tutorial: cast04-AOA-tutorial.html
+  cast05-parallel: cast05-parallel.html
+last_built: 2026-03-12T08:19Z
+urls:
+  reference: https://hannameyer.github.io/CAST/reference
+  article: https://hannameyer.github.io/CAST/articles
